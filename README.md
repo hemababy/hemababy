@@ -4,6 +4,8 @@
 
 Welcome to my hubspace! I'm thrilled to share with you my journey as a master's student at Potsdam University in Berlin, Germany. I came to Germany with a mission to explore the world of Data Science and Machine Learning, and I couldn't be happier with my decision.
 
+I further learned to create dashboards in **PowerBI** that will help stakeholders make clear data-driven decisions. Also, I love creating and designing dashboards that will make end-user so understandable.
+
 Before moving to Germany, I worked as a Full-Stack Developer in India for over 2 years, using JAVA for both front-end and back-end development on government bank projects. While I enjoyed my experience as a Full-Stack Developer, I felt drawn to the exciting world of Data Science and Machine Learning.
 
 Once I started my master's program, I immediately dove into the world of Data Science, and I haven't looked back since. I have been working on many Explanatory Data Analyses using Python, and I have to say, that Python is one of my favorite programming languages at the moment. The flexibility and versatility of Python have made it an invaluable tool in my Data Science journey.
@@ -14,13 +16,13 @@ In addition to my coursework, I have been working on some Business Intelligence 
 
 Stay tuned for more project repositories about my journey in Data Science and Machine Learning!
 
-- 🔭 I’m currently working on [Customer Demographics & Insights](https://github.com/hemababy/DataAnalytics_BI)
+- 🔭 I’m currently working on Data Engineering Projects.
 
-- 🌱 I’m currently learning **Data Modelling with DAX**
+- 🌱 I’m currently learning **Azure Databrick, Pyspark, Airflow**
 
 - 📝 I regularly write articles on [https://wordpress.com/view/statdatascience.wordpress.com](https://wordpress.com/view/statdatascience.wordpress.com)
 
-- 💬 Ask me about **Machine Learning, Statistics.**
+- 💬 Ask me about **Machine Learning, Statistics, Power BI.**
 
 - 📫 How to reach me **hematechie@gmail.com**
 
