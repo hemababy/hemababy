@@ -16,7 +16,7 @@ In addition to my coursework, I have been working on some Business Intelligence 
 
 Stay tuned for more project repositories about my journey in Data Science and Machine Learning!
 
-- 🔭 I’m currently working on Data Engineering Projects.
+- 🔭 I’m currently working on NLP Machine Learning Projects.
 
 - 🌱 I’m currently learning **Azure Databrick, Pyspark, Airflow**
 
