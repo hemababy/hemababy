@@ -18,7 +18,7 @@ Stay tuned for more project repositories about my journey in Data Science and Ma
 
 - 🔭 I’m currently working on NLP Machine Learning Projects.
 
-- 🌱 I’m currently learning **Azure Databrick, Pyspark, Airflow**
+- 🌱 I’m currently learning **Generative AI**
 
 - 📝 I regularly write articles on [https://wordpress.com/view/statdatascience.wordpress.com](https://wordpress.com/view/statdatascience.wordpress.com)
 
